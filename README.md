@@ -13,6 +13,7 @@
     - WowJS
     - SwiperJS
 - RestAPI, AJAX, Fetch requests
+- Firebase
 > ### Libraries
 - ReactJS
 > ### Git

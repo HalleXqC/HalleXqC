@@ -9,9 +9,6 @@
     - Grid, Flex
 > ### Functional part of sites
 - JavaScript
-    - AosJS
-    - WowJS
-    - SwiperJS
 - RestAPI, AJAX, Fetch requests
 - Google Firebase
 > ### Libraries

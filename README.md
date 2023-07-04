@@ -4,15 +4,11 @@
 > ### Layout    
 - HTML
 - CSS
-    - Bootstrap
-- Adaptive Layout
-    - Grid, Flex
-> ### Functional part of sites
-- JavaScript
-- RestAPI, AJAX, Fetch requests
+- SASS
+- Responsive Layout
+- JavaScript, Typescript
+- RestAPI
 - Google Firebase
-> ### Libraries
-- ReactJS
-> ### Git
-- GitHub
-- BitBucket
+- React
+- Redux, Redux Toolkit, RTK Query
+- ChakraUI

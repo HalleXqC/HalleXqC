@@ -2,12 +2,11 @@
 ----
 ### My knowledges in Frontend Developing are:  
 - HTML
-- CSS
-- SASS
+- CSS / SASS
 - Responsive Layout
 - JavaScript, Typescript
 - RestAPI
 - Google Firebase
 - React
 - Redux, Redux Toolkit, RTK Query
-- ChakraUI
+- ChakraUI, Tailwind

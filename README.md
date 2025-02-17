@@ -5,8 +5,8 @@
 - CSS / SASS
 - Responsive Layout
 - JavaScript, Typescript
-- RestAPI
 - Google Firebase
-- React
-- Redux, Redux Toolkit, RTK Query
+- React, Redux, Redux Toolkit, RTK Query
 - ChakraUI, Tailwind
+- Angular
+- ElectonJS

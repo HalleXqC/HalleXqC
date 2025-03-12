@@ -9,4 +9,4 @@
 - React, Redux, Redux Toolkit, RTK Query
 - ChakraUI, Tailwind
 - Angular
-- ElectonJS
+- ElectronJS
